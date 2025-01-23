@@ -118,19 +118,19 @@ export const info = {
         },
         {
             title: "Project 2",
-            live: "https://paytonpierce.dev",
+            live: "https://weather-dive.netlify.app/",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
         {
             title: "Project 3",
-            live: "https://paytonpierce.dev",
+            live: "https://stopwatch-dive.netlify.app/",
             source: "https://github.com/paytonjewell",
             image: mock3
         },
         {
             title: "Project 4",
-            live: "https://paytonpierce.dev",
+            live: "https://navigationdive.netlify.app/",
             source: "https://github.com/paytonjewell",
             image: mock4
         },
