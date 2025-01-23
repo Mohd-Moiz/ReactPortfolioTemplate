@@ -27,8 +27,8 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "Mohammed",
-    lastName: "Moiz",
+    firstName: "Moiz",
+    lastName: "Mohammed",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
     position: "a seeker",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
