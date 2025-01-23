@@ -118,13 +118,13 @@ export const info = {
         },
         {
             title: "Project 2",
-            live: "https://weather-dive.netlify.app/",
+            live: "https://stopwatch-dive.netlify.app/",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
         {
             title: "Project 3",
-            live: "https://stopwatch-dive.netlify.app/",
+            live: "https://weather-dive.netlify.app/",
             source: "https://github.com/paytonjewell",
             image: mock3
         },
